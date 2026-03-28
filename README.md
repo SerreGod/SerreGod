@@ -12,13 +12,14 @@
 # Alejandro Serrejón Beltrán
 ### `> Game Developer & Designer_`
 
-**🎓 Ingeniería en Diseño y Desarrollo de Videojuegos · URJC**
+**🎓 Diseño y Desarrollo de Videojuegos · URJC**
 
 *Buscando prácticas para dar el salto a la industria* 🚀
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-serrej%C3%B3n-beltr%C3%A1n-850b89341/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=white)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://tu-usuario.itch.io)
 [![Email](https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.serrejon.2021@alumnos.urjc.es)
 
@@ -28,7 +29,7 @@
 
 ## 👾 Quién soy
 
-Soy estudiante en el último año de **Ingeniería en Diseño y Desarrollo de Videojuegos en la URJC**, con experiencia real trabajando en equipo para llevar proyectos desde el concepto hasta el juego jugable. Me muevo cómodo en el lado técnico: programación de mecánicas, sistemas de juego, arquitecturas de red y mobile.
+Soy estudiante en el último año de **Diseño y Desarrollo de Videojuegos en la URJC**, con experiencia real trabajando en equipo para llevar proyectos desde el concepto hasta el juego jugable. Me muevo cómodo en el lado técnico: programación de mecánicas, sistemas de juego, mobile y múltiples lenguajes de programación.
 
 He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágiles**, gestionando versiones con Git y publicando en plataformas como **Itch.io**. Busco prácticas donde pueda aportar desde el primer día.
 
@@ -36,7 +37,7 @@ He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágil
 > Estado:          Finalizando Grado · Buscando prácticas
 > Disponibilidad:  Inmediata
 > Ubicación:       España 🇪🇸
-> Trabajo en:      Unity · C# · Java · Arquitectura de Redes
+> Trabajo en:      Unity · C# · C++ · Java · Python · JS
 ```
 
 ---
@@ -58,15 +59,9 @@ He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágil
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)
 
-### 🌐 Backend & Redes
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
 ### 🔄 Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Perforce](https://img.shields.io/badge/Perforce-404040?style=flat-square&logo=perforce&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logoColor=white)
 
 ---
@@ -78,6 +73,7 @@ He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágil
 🗺️  Diseño de Niveles & Sistemas de Juego
 📱  Desarrollo de Juegos para Móvil
 ⚡  Prototipado Rápido & Roguelikes
+💻  Versatilidad en múltiples lenguajes (C#, C++, Java, Python, JS)
 🤝  Trabajo en equipo con metodologías ágiles (Scrum)
 ```
 
@@ -113,13 +109,11 @@ He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágil
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerreGod&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C792EA&text_color=CDD6F4&icon_color=89DCEB)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerreGod&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C792EA&text_color=CDD6F4)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SerreGod&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C792EA&line=89DCEB&point=CDD6F4)
 
 </div>
 
@@ -127,17 +121,22 @@ He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágil
 
 ## 🎯 Actualmente...
 
-- 🎓 Finalizando el **Grado en Ingeniería de Diseño y Desarrollo de Videojuegos · URJC**
+- 🎓 Finalizando el **Grado en Diseño y Desarrollo de Videojuegos · URJC**
 - 🔨 Puliendo el portfolio para buscar prácticas en la industria
+- 📚 Profundizando en **shaders**, **sistemas procedurales** y **game feel**
 - 🤝 Abierto a colaborar en proyectos indie y game jams
 
 ---
+
+<div align="center">
+
+*"Un buen juego no se termina, se abandona en el momento justo."*
 
 <br>
 
 **¿Tienes un proyecto o una oferta de prácticas? Hablemos 👇**
 
-[![Email](https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexanderserre@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-serrej%C3%B3n-beltr%C3%A1n-850b89341/)
+[![Email](https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.serrejon.2021@alumnos.urjc.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 
 </div>
