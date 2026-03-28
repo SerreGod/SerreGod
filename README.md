@@ -53,9 +53,12 @@ He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágil
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🎮 Motores & Herramientas de juego
+### 🎮 Motores & Herramientas
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
+![Premiere](https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)
 
 ### 🔄 Workflow
