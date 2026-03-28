@@ -18,10 +18,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logoColor=white)](https://tu-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://tu-usuario.itch.io)
-[![Email](https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.serrejon.2021@alumnos.urjc.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-serrej%C3%B3n-beltr%C3%A1n-850b89341/)
+[![Ver en Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://pixelsup.itch.io/glitchmatic)
+[![Email](https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexanderserre@gmail.com)
 
 </div>
 
@@ -82,7 +81,9 @@ He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágil
 ## 📌 Proyectos Destacados
 
 ### 🔴 [GlitchMatic](https://github.com/SerreGod/GlitchMatic) — *El proyecto más ambicioso*
-> Roguelike 2D pixel art desarrollado en equipo de 6 personas bajo el estudio ficticio **PixelsUp**. Un Glitch Hunter atrapado en una torre infinita de habitaciones procedurales, combate frenético cuerpo a cuerpo y a distancia, sistema de enemigos con IA adaptativa, temas visuales intercambiables y bosses únicos por temática. Publicado en Itch.io.
+> Roguelike 2D pixel art desarrollado en equipo de 6 personas bajo el estudio ficticio **PixelsUp**. Un Glitch Hunter atrapado en una torre infinita de habitaciones procedurales, combate frenético cuerpo a cuerpo y a distancia, sistema de enemigos con IA adaptativa, temas visuales intercambiables y bosses únicos por temática.
+>
+> 🕹️ *Publicado bajo el sello del estudio [PixelsUp](https://pixelsup.itch.io/glitchmatic)*
 
 `Unity` `C#` `Pixel Art` `Procedural Generation` `Itch.io` `Scrum`
 
@@ -109,13 +110,15 @@ He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágil
 
 ---
 
-## 📊 GitHub Activity
+## 🌱 Hacia dónde voy
 
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SerreGod&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C792EA&line=89DCEB&point=CDD6F4)
-
-</div>
+| 🔨 Profundizando         | 🎯 Metas a corto plazo       | 🚀 Futuro                   |
+|--------------------------|------------------------------|-----------------------------|
+| C# avanzado              | Unity (sistemas avanzados)   | Inteligencia Artificial      |
+| C++ moderno              | Shaders & VFX                | Machine Learning en juegos   |
+| Python                   | Diseño de sistemas de juego  | Procedural Generation        |
+| Patrones de diseño       | Diseño de niveles            | Narrative Design             |
+| Algoritmos & estructuras | Game Feel & Juice            | Unreal Engine 5              |
 
 ---
 
@@ -136,7 +139,7 @@ He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágil
 
 **¿Tienes un proyecto o una oferta de prácticas? Hablemos 👇**
 
-[![Email](https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.serrejon.2021@alumnos.urjc.es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexanderserre@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-serrej%C3%B3n-beltr%C3%A1n-850b89341/)
 
 </div>
