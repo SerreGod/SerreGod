@@ -129,14 +129,13 @@ He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágil
 
 - 🎓 Finalizando el **Grado en Diseño y Desarrollo de Videojuegos · URJC**
 - 🔨 Puliendo el portfolio para buscar prácticas en la industria
-- 📚 Profundizando en **shaders**, **sistemas procedurales** y **game feel**
 - 🤝 Abierto a colaborar en proyectos indie y game jams
 
 ---
 
 <div align="center">
 
-*"Un buen juego no se termina, se abandona en el momento justo."*
+*"Primero hazlo funcionar, luego hazlo memorable."*
 
 <br>
 
