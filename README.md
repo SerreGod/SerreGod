@@ -83,7 +83,7 @@ He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágil
 
 ## 📌 Proyectos Destacados
 
-### 🔴 [GlitchMatic](https://github.com/SerreGod/GlitchMatic) — *El proyecto más ambicioso*
+### 🔴 [GlitchMatic](https://github.com/PixelsUp/GlitchMatic) — *El proyecto más ambicioso*
 > Roguelike 2D pixel art desarrollado en equipo de 6 personas bajo el estudio ficticio **PixelsUp**. Un Glitch Hunter atrapado en una torre infinita de habitaciones procedurales, combate frenético cuerpo a cuerpo y a distancia, sistema de enemigos con IA adaptativa, temas visuales intercambiables y bosses únicos por temática.
 >
 > 🕹️ *Publicado bajo el sello del estudio [PixelsUp](https://pixelsup.itch.io/glitchmatic)*
@@ -92,21 +92,21 @@ He formado parte de equipos de hasta 6 personas, aplicando **metodologías ágil
 
 ---
 
-### 🟡 [51 Assault](https://github.com/SerreGod/51-Assault) — *Multijugador en navegador*
+### 🟡 [51 Assault](https://github.com/PoceroJunior/51-Assault) — *Multijugador en navegador*
 > Hack & slash cooperativo para 2 jugadores en navegador, inspirado en Vampire Survivors. Desarrollado en Java con Spring Boot, incluye **API REST** completa (login, registro, gestión de usuarios con persistencia) y **WebSockets** para sincronizar en tiempo real posición, animaciones, ataques y estado de pausa entre clientes. Publicado en Itch.io.
 
 `Java` `Spring Boot` `WebSockets` `REST API` `HTML5` `CSS3` `JavaScript`
 
 ---
 
-### 🟢 [GyroSweeper](https://github.com/SerreGod/GyroSweeper) — *Plataformas mobile*
+### 🟢 [GyroSweeper](https://github.com/SergioZepol/GyroSweeper) — *Plataformas mobile*
 > Plataformer vertical 2D para móvil. El jugador salta de plataforma en plataforma escalando lo más alto posible, con trampolines, plataformas móviles y obstáculos dinámicos. Incluye power-ups, sistema de **leaderboard online** y mecánicas pulidas para garantizar una experiencia fluida y rejugable.
 
 `Unity` `C#` `Mobile` `Leaderboard` `2D Platformer`
 
 ---
 
-### ⚪ [Multiplayer Network Scene](https://github.com/SerreGod/MultiplayerScene) — *Arquitectura de redes*
+### ⚪ [Multiplayer Network Scene](https://github.com/SergioZepol/EM_Zombfection) — *Arquitectura de redes*
 > Implementación de una arquitectura de red multijugador sobre un escenario 3D en Unity. Trabajo enfocado en sistemas de networking: sincronización de jugadores, gestión de conexiones y comunicación cliente-servidor.
 
 `Unity` `C#` `Networking` `Multiplayer`
